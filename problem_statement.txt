@@ -1,0 +1,12 @@
+Given a String Matrix, perform column-wise concatenation of strings, handling variable lists lengths.
+
+example 
+
+Input : [[“Gfg”, “good”], [“is”, “for”]] 
+Output : [‘Gfgis’, ‘goodfor’] 
+Explanation : Column wise concatenated Strings, “Gfg” concatenated with “is”, and so on. 
+
+
+Input : [[“Gfg”, “good”, “geeks”], [“is”, “for”, “best”]] 
+Output : [‘Gfgis’, ‘goodfor’, “geeksbest”] 
+Explanation : Column wise concatenated Strings, “Gfg” concatenated with “is”, and so on.
